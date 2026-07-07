@@ -72,6 +72,5 @@ Software to take my own data from the telescope all the way to a light curve.
 
 - 🌐 Résumé — [kolsut.net](https://kolsut.net)
 - 💼 LinkedIn — [krzysztof-kolsut](https://www.linkedin.com/in/krzysztof-kolsut-56654b51/)
-- 📧 krzysztof.kolsut@gmail.com
 
 <sub>⭐ If any of the astronomy tools are useful to you, feel free to open an issue — I'm always happy to talk stars and code.</sub>
